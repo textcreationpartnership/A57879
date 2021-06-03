@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules for our more devout behaviour in the time of divine service in the Church of England together with an account of the several places and hours in and about the city of London where the service of the church is celebrated morning and evening, every day in the week.</title>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57879</idno><idno type="EEBO-CITATION">12580507</idno>
+  <idno type="VID">63732</idno>
+  <idno type="EEBO-PROQUEST">2240971062</idno>
+  
+            <idno type="STC">Wing R2255</idno>
+            <idno type="STC">ESTC R5312</idno>
+            <idno type="OCLC">12580507</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63732)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 331:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules for our more devout behaviour in the time of divine service in the Church of England together with an account of the several places and hours in and about the city of London where the service of the church is celebrated morning and evening, every day in the week.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Second edition with additions.</edition>
+               </editionStmt>
+               <extent>[4], 89, [3] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Keble ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [1]-[3] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England.</term>
+               <term type="topical_term">Worship.</term>
+               <term type="geographic_name">London (England) --  Religion --  Miscellanea.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="note">
+            <pb facs="tcp:63732:1"/>
+            <pb facs="tcp:63732:1"/>
+            <p>THESE Rules are published to shew in what good Order the Publick Service of the Church of <hi>England</hi> is, and the Excellency and Usefulness of it, when it's Rules are du<g ref="char:EOLhyphen"/>ly observed.</p>
+            <p>To this Second Editi<g ref="char:EOLhyphen"/>on is added Rules for the Communion <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:63732:2"/>
+            <p>
+               <figure>
+                  <q>I was glad when they said unto me. We will go into y<seg rend="sup">e</seg> house of y<seg rend="sup">e</seg> Lord. <bibl>
+                        <hi>Psal. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </bibl>
+                  </q>
+                  <q>O come, let us worship, and fall down, at Kneel before the Lord our Maker. <bibl>
+                        <hi>Psal. 9</hi>
+                     </bibl>
+                  </q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:63732:2"/>
+            <p>RULES For our more Devout Behaviour In the time of Divine Service In the Church of <hi>England.</hi>
+            </p>
+            <p>Together with an Account of the several Places and Hours in and about the City of <hi>LONDON,</hi> where the Service of the Church is Celebrated Morning and Even<g ref="char:EOLhyphen"/>ing, every Day in the Week.</p>
+            <p>
+               <hi>Second Edition with Additions.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>S. Keble</hi> at the <hi>Turks-Head</hi> in <hi>Fleetstreet,</hi> 1687.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:63732:3"/>
+            <p>
+               <hi>IMPRIMATUR.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Johannes Battely</hi> Reveren<g ref="char:EOLhyphen"/>dissimo Pat. &amp; Dom. Domino <hi>Wilhielmo</hi> Archiep. <hi>Cant.</hi> à Sacris Domesticis.</signed>
+               <dateline>
+                  <date>Feb. 11th. <hi>1686.</hi>
+                  </date> Ex Aedibus <hi>Lambethanis.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:63732:3"/>
+            <head>
+               <hi>RULES</hi> For our more Devour Behaviour in t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> time of Divine Ser<g ref="char:EOLhyphen"/>vice in the Church of <hi>England.</hi>
+            </head>
+            <p>THESE few fol<g ref="char:EOLhyphen"/>lowing Rules for our more devout beha<g ref="char:EOLhyphen"/>viour in the time of Divine Service of the
+<pb n="2" facs="tcp:63732:4"/> Church, I thought good to recommend unto you: Not to instruct the knowing, but to inform the ignorant, who either enter not Gods House at all; or if they do (it may be) are not imployed as they should be there; which is an evil, the con<g ref="char:EOLhyphen"/>sequence whereof they consider not. For either
+<pb n="3" facs="tcp:63732:4"/> they offer to God no Sa<g ref="char:EOLhyphen"/>crifice at all; or else per<g ref="char:EOLhyphen"/>form it in such an undue manner without that re<g ref="char:EOLhyphen"/>verence and devotion which becomes that holy place.</p>
+            <p>Now to correct these evils, so that Persons may come to the House of God, as they should come, both knowing<g ref="char:EOLhyphen"/>ly,
+<pb n="4" facs="tcp:63732:5"/> and understandingly, and also do what there is fit to be done; and (if without prejudice thou wilt read and well weigh these few following Rules) I am willing to believe thou wilt not be the worse; nay, by Gods Blessing, thy mind may be made more Devout, and consequently thy
+<pb n="5" facs="tcp:63732:5"/> Soul much bettered by the observing them.</p>
+            <p n="1">1. Let us take order that we may be there from the beginning to the end; that our hearts and tongues may bear a part throughout; which is a good means to make us partakers both of the Absolution at the begin<g ref="char:EOLhyphen"/>ning of Prayer, and the
+<pb n="6" facs="tcp:63732:6"/> Blessing at the End.</p>
+            <p n="2">2. When we are en<g ref="char:EOLhyphen"/>tring into the religious Assemblies, Let us consi<g ref="char:EOLhyphen"/>der that we are entring Gods House, that holy Place, where Gods most dread Majesty is peculi<g ref="char:EOLhyphen"/>arly present, which is e<g ref="char:EOLhyphen"/>nough, one would think, to suppress any unwor<g ref="char:EOLhyphen"/>thy and irreligious acti<g ref="char:EOLhyphen"/>ons or thoughts.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:63732:6"/>3. Let us not come only as Spectators to a Theatre, to hear much, learn little, and do no<g ref="char:EOLhyphen"/>thing. But as those that have an interest in Gods service: All being bound to this their duty accor<g ref="char:EOLhyphen"/>ding to their abilities and callings: And that even out of the Mouths of Babes and Sucklings, <hi>Ho<g ref="char:EOLhyphen"/>sanna</hi>'s
+<pb n="8" facs="tcp:63732:7"/> may be offered un<g ref="char:EOLhyphen"/>to God.</p>
+            <p n="4">4. Consider, that he, that dwells in Heaven, hath an especial eye up<g ref="char:EOLhyphen"/>on that place, above all other, not only to de<g ref="char:EOLhyphen"/>fend it, 2 <hi>Mac.</hi> 3.39. But to observe our carriage with<g ref="char:EOLhyphen"/>in it. Therefore as to your Carriage and De<g ref="char:EOLhyphen"/>meanour in the House of
+<pb n="9" facs="tcp:63732:7"/> God, you are command<g ref="char:EOLhyphen"/>ed, <hi>Keep thy foot, when thou goest into the House of God,</hi> Eccles. 5.1. Enjoyning thee, First, to beware of all light, unseemly, unde<g ref="char:EOLhyphen"/>cent, and irreverent car<g ref="char:EOLhyphen"/>riage, and to shew hu<g ref="char:EOLhyphen"/>mility and devotion in all the gestures of the out<g ref="char:EOLhyphen"/>ward man; <hi>bowing down</hi> thy self, <hi>and kneeling be<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:63732:8"/> the Lord thy Maker, Ps.</hi> 95.6.</p>
+            <p n="5">5. For when our busi<g ref="char:EOLhyphen"/>ness is with God; we are to mind what we come about, to have our minds, our hearts, and af<g ref="char:EOLhyphen"/>fections, set only upon it: When we come into the House of God, which is the figure of Heaven, we are to leave the Earth
+<pb n="11" facs="tcp:63732:8"/> and the World behind us, and to have our con<g ref="char:EOLhyphen"/>versation only in Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Well then consider what thou art, and what God is, into whose speci<g ref="char:EOLhyphen"/>al presence thou art to enter, and what thy busi<g ref="char:EOLhyphen"/>ness is with him. Thou art a feeble infirm Crea<g ref="char:EOLhyphen"/>ture, made up of nothing
+<pb n="12" facs="tcp:63732:9"/> but wants and weaknes<g ref="char:EOLhyphen"/>ses; God is a Creator al<g ref="char:EOLhyphen"/>sufficient to heal thy in<g ref="char:EOLhyphen"/>firmities, to supply thy wants, and to manifest his strength in weakness; therefore when you are come unto the publick Service of the Church, let no pretence interrupt or take you off from any part of the Divine Ser<g ref="char:EOLhyphen"/>vice.</p>
+            <pb n="13" facs="tcp:63732:9"/>
+            <p>When you come to the Church door, Consider, that you are now upon entrance into the Presence Chamber of the great King of the World, whose Throne of Glory is in Heaven above, but his Throne of Grace in his Temple here below; Say then to your self. <hi>Surely the Lord is in
+<pb n="14" facs="tcp:63732:10"/> this place. How dread<g ref="char:EOLhyphen"/>ful is this place? This is none other but the House of God, this is the gate of Heaven,</hi> Gen. 28.16, 17. <hi>Blessed are they who dwell in thy House: they will al<g ref="char:EOLhyphen"/>ways be praising thee,</hi> Psal. 24.4. And most happy were I, could I both e<g ref="char:EOLhyphen"/>steem it, and make it my greatest joy, and con<g ref="char:EOLhyphen"/>stant
+<pb n="15" facs="tcp:63732:10"/> labour of love, to praise the Lord in his Temple.</p>
+            <p>Having entred into the Church with due re<g ref="char:EOLhyphen"/>verence, you may at the first kneeling down, pre<g ref="char:EOLhyphen"/>sent your selves to Al<g ref="char:EOLhyphen"/>mighty God in one of these or the like short E<g ref="char:EOLhyphen"/>jaculations.</p>
+            <p>
+               <hi>Let the words of my
+<pb n="16" facs="tcp:63732:11"/> mouth, and the Meditati<g ref="char:EOLhyphen"/>ons of my heart, be now and ever acceptable in thy sight, O Lord my strength and my Redeemer,</hi> Ps. 19.14.</p>
+            <p>Or,</p>
+            <p>
+               <hi>Holy, holy, holy, Lord God Almighty, which was, and is, and is to come, sit us all for thy Service,</hi> Revel. 4.8.</p>
+            <p>Or,</p>
+            <pb n="17" facs="tcp:63732:11"/>
+            <p>
+               <hi>O most merciful God give us grace to make the best use of our time in thy House: Graciously, accept us all, that come hither to present our selves, our souls, and bodies unto thee, for Jesus Christs sake that vouchsafed to present him<g ref="char:EOLhyphen"/>self bodily in the Temple for us, in great love and humility.</hi>
+            </p>
+            <pb n="18" facs="tcp:63732:12"/>
+            <p>Now having seriously considered all that is be<g ref="char:EOLhyphen"/>forementioned, and being resolvedly bent to do it too, upon those serious considerations (for it is lamentable to reflect what absurd things are done in the time of Di<g ref="char:EOLhyphen"/>vine Service) then it will in the next place con<g ref="char:EOLhyphen"/>cern us to prepare for
+<pb n="19" facs="tcp:63732:12"/> that spiritual and hea<g ref="char:EOLhyphen"/>venly Work, we there meet about.</p>
+            <p>Where first the Ser<g ref="char:EOLhyphen"/>vice begins with a reci<g ref="char:EOLhyphen"/>tal of some pertinent Text of Holy Scripture.</p>
+            <p>Then follows a grave Exhortation, being a pa<g ref="char:EOLhyphen"/>thetical admonition of the great and weighty ends and purposes of our
+<pb n="20" facs="tcp:63732:13"/> coming thither.</p>
+            <p>Therefore when the Minister exhorts you, out of the Word of God, to confess and acknow<g ref="char:EOLhyphen"/>ledge your sins, and wickedness, harden not your heart, but with all possible humility both of Body and Soul, say after the Minister in the Con<g ref="char:EOLhyphen"/>fession of Sin: and to
+<pb n="21" facs="tcp:63732:13"/> this, and to every Pray<g ref="char:EOLhyphen"/>er, or other Act of Di<g ref="char:EOLhyphen"/>vine Worship, where 'tis prescribed, neglect not to say, <hi>Amen;</hi> for that is, as it were the Seal to con<g ref="char:EOLhyphen"/>firm to your Soul the be<g ref="char:EOLhyphen"/>nefits thereof.</p>
+            <p>The next is a general Confession, of an admi<g ref="char:EOLhyphen"/>rable composure (for what can be contrived
+<pb n="22" facs="tcp:63732:14"/> more fully and effectual<g ref="char:EOLhyphen"/>ly than this which is) to be said joyntly of the whole Congregation, ac<g ref="char:EOLhyphen"/>companying the Mini<g ref="char:EOLhyphen"/>ster, all meekly kneeling upon our knees; with pure hearts and humble voices.</p>
+            <p>Now after this hum<g ref="char:EOLhyphen"/>ble Confession, whilst we continue on our knees in
+<pb n="23" facs="tcp:63732:14"/> the posture of Penitents, the Priest (to whom God hath committed the Mi<g ref="char:EOLhyphen"/>nistry and word of Re<g ref="char:EOLhyphen"/>conciliation, and so gi<g ref="char:EOLhyphen"/>ven him power and com<g ref="char:EOLhyphen"/>mandment to declare and pronounce unto his peo<g ref="char:EOLhyphen"/>ple being penitent, the Absolution and Remissi<g ref="char:EOLhyphen"/>on of their Sins) accor<g ref="char:EOLhyphen"/>ding to the sacred autho<g ref="char:EOLhyphen"/>rity
+<pb n="24" facs="tcp:63732:15"/> and commission giv<g ref="char:EOLhyphen"/>en him from Heaven, stands up to your great assurance and comfort to pronounce the Divine Absolution.</p>
+            <p>Which Absolution is to be pronounced by the Priest alone, and this I urge because I have heard some say the Ab<g ref="char:EOLhyphen"/>solution a loud after the
+<pb n="25" facs="tcp:63732:15"/> Priest; as if we could pardon our selves.</p>
+            <p>Neither are they to repeat any of the other Prayers with an audible voice, except the Lords Prayer, and the Respon<g ref="char:EOLhyphen"/>ses, because they there<g ref="char:EOLhyphen"/>by give great distur<g ref="char:EOLhyphen"/>bance to others in their devotions.</p>
+            <p>When the Minister
+<pb n="26" facs="tcp:63732:16"/> comes to the words of Absolution, bow down your head, and say softly in your heart, <hi>Lord, let this Pardon pronounced by thy Minister fall upon my soul, and seal thereunto the forgiveness of all my sins.</hi>
+            </p>
+            <p>And now looking up<g ref="char:EOLhyphen"/>on our selves as absolved from our sins, upon our Repentance and Faith in Christ.</p>
+            <pb n="27" facs="tcp:63732:16"/>
+            <p>After this succeeds the Lords Prayer, we all re<g ref="char:EOLhyphen"/>peating it with him; for now we take the boldness to call him Father, hum<g ref="char:EOLhyphen"/>bly addressing our selves to him in that divine Form of Prayer, which he himself hath given us, and the Church has made it as the beginning of our most solemn Service.</p>
+            <pb n="28" facs="tcp:63732:17"/>
+            <p>Then a pious Ejacula<g ref="char:EOLhyphen"/>tion or two, being lifted up both by Priest and People unto God for abi<g ref="char:EOLhyphen"/>lity to praise him, and speedy succour and relief from him against our ad<g ref="char:EOLhyphen"/>versary the Devil.</p>
+            <p>The Priest. <hi>O Lord o<g ref="char:EOLhyphen"/>pen thou our Lips,</hi> &amp;c.</p>
+            <p>Now we are all dire<g ref="char:EOLhyphen"/>cted by the Church to
+<pb n="29" facs="tcp:63732:17"/> stand up, and that we may also with united hearts and voices in the highest strain profess and say, <hi>Glory be to the Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c. and so to give glory unto God; as it be<g ref="char:EOLhyphen"/>cometh Christians di<g ref="char:EOLhyphen"/>stinguished from Jews, Turks, Pagans, or Infidels and Hereticks, in those most Christian Hymns,
+<pb n="30" facs="tcp:63732:18"/> and that short abridge<g ref="char:EOLhyphen"/>ment of our Creed, and the Mystery of the Ho<g ref="char:EOLhyphen"/>ly Trinity, God the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghost, into whose name we were baptized.</p>
+            <p>Then the Priest ex<g ref="char:EOLhyphen"/>horts you and says, <hi>Hal<g ref="char:EOLhyphen"/>lelujah,</hi> or <hi>Praise ye the Lord,</hi> and we answer, <hi>The Lords name be prais<g ref="char:EOLhyphen"/>ed.</hi>
+            </p>
+            <pb n="31" facs="tcp:63732:18"/>
+            <p>It follows next, that we should in the most cheerful posture (which is standing) exhibit to God our Lauds and Praises (in the 95 <hi>Psalm.</hi>)</p>
+            <p>This is an Invitatory Psalm; for herein we do mutually invite and call upon one another, being come before his Presence. to Sing to the Lord, to
+<pb n="32" facs="tcp:63732:19"/> set forth his Praises, to hear his voice as with joy and chearfulness.</p>
+            <p>All Psalms and Hymns are to be answered Verse by Verse with the Mini<g ref="char:EOLhyphen"/>er, that so all may joyn and bear a part in the Service of God: for, <hi>in his Temple doth every man speak of his honour,</hi> Psal. 29.9. And here although
+<pb n="33" facs="tcp:63732:19"/> you cannot read, yet your heart may join with them that do read; and your Mouth also may shew forth the Praise of God, by saying after e<g ref="char:EOLhyphen"/>very Psalm, <hi>Glory be to the Father,</hi> &amp;c. Or else, if it fall in course, <hi>As it was in the beginning,</hi> &amp;c. adding always, <hi>Amen,</hi> to express how affectionate<g ref="char:EOLhyphen"/>ly
+<pb n="34" facs="tcp:63732:20"/> you desire the Glory of God.</p>
+            <p>Then follows the Psalms in order as they are appointed to be read over every Month, (all the people standing) and at the end of every Psalm shall be repeated, <hi>Glory be to the Father,</hi> &amp;c.</p>
+            <p>After which the Church gives us a kind of
+<pb n="35" facs="tcp:63732:20"/> rest to our Devotions, that they tire not: For now we should with all devout diligence, sober, serious, and grave atten<g ref="char:EOLhyphen"/>tion, hear the first Les<g ref="char:EOLhyphen"/>son read out of the Old Testament by the Priest.</p>
+            <p>After which is said devout Hymn (all stand<g ref="char:EOLhyphen"/>ing) commonly called <hi>Te Deum Laudamus</hi>
+               <pb n="36" facs="tcp:63732:21"/> composed, as it is suppos<g ref="char:EOLhyphen"/>ed, by St. <hi>Ambrose, We praise thee O God,</hi> &amp;c.</p>
+            <p>Then is to be read the second Lesson, taken out of the New Testament; and at the End is said or sung (all standing) <hi>Blessed be the Lord God of</hi> Israel; or <hi>O be joyful in the Lord.</hi> (A Lesson we have out of both Testaments, that
+<pb n="37" facs="tcp:63732:21"/> we may see their admira<g ref="char:EOLhyphen"/>ble agreement,)</p>
+            <p>It was the priviledge and happiness of the <hi>Jews,</hi> that <hi>Moses</hi> and the Prophets were read in their Synagogues every Sabbath day. But be<g ref="char:EOLhyphen"/>hold a greater than <hi>Moses</hi> is here, and one whom all the Prophets foretold of, and pointed to.</p>
+            <pb n="38" facs="tcp:63732:22"/>
+            <p>We have moreover Christ and his Apostles, and so our Ears are Bles<g ref="char:EOLhyphen"/>sed with that; the ac<g ref="char:EOLhyphen"/>complishment of which the Holy Men of Old did long for, and expect should be in due time. But they saw only afar off.</p>
+            <p>Next in order suc<g ref="char:EOLhyphen"/>ceeds the Apostles Creed;
+<pb n="39" facs="tcp:63732:22"/> or summary of our Chri<g ref="char:EOLhyphen"/>an Faith, to be rehearsed joyntly both by Priest, and all the People stand<g ref="char:EOLhyphen"/>ing: Our standing up, with the rest of the Congregation, to signifie and delare, that you will stand to this Faith, and earnestly contend for it as being the same which was once given to or by
+<pb n="40" facs="tcp:63732:23"/> the Saints, the holy Apo<g ref="char:EOLhyphen"/>stles.</p>
+            <p>After this a pious salu<g ref="char:EOLhyphen"/>tation of Christian and mutual Love, entertained between Minister and People, (Priest, <hi>The Lord be with you;</hi> Answ. <hi>And with thy Spirit.</hi>
+            </p>
+            <p>After this we are cal<g ref="char:EOLhyphen"/>led upon again to com<g ref="char:EOLhyphen"/>pose our selves for Prayer
+<pb n="41" facs="tcp:63732:23"/> on our knees, with a <hi>Let us Pray.</hi> A wholsome form of words frequent<g ref="char:EOLhyphen"/>ly used to rouze and rally our sleeping and wan<g ref="char:EOLhyphen"/>dring Devotions.</p>
+            <p>Then succeeds the Lords Prayer for all the Disciples of Christ to joyn in, as he hath taught them to call upon that God in whom they be<g ref="char:EOLhyphen"/>lieve.</p>
+            <pb n="42" facs="tcp:63732:24"/>
+            <p>After this the Minister stands up again (to testi<g ref="char:EOLhyphen"/>fie the authority of his Function in making in<g ref="char:EOLhyphen"/>tercession by Prayer with God) and he and the peo<g ref="char:EOLhyphen"/>ple together, lift up seve<g ref="char:EOLhyphen"/>ral pithy Ejaculations un<g ref="char:EOLhyphen"/>to Heaven, for Mercy and Salvation; for King and Subjects, Ministers and People, for Peace and Holiness.</p>
+            <pb n="43" facs="tcp:63732:24"/>
+            <p>Upon which follows more solemn Prayers, (all devoutly kneeling) <hi>viz.</hi> the Collect for the day, for Peace and Grace, the Litany on Sundays, Holidays, Wednesdays, and Fridays. The word Litany imports no more but a certain form of most earnest Supplicati<g ref="char:EOLhyphen"/>ons; and such indeed is
+<pb n="44" facs="tcp:63732:25"/> this presented, wherein Priest and people are to strive together, as mutu<g ref="char:EOLhyphen"/>al helpers each to other, in the wrestling with God for a special blessing upon themselves and all others) the Intercession for the Kings Majesty, for the Royal Family, for the Clergy and People, for all Estates and Con<g ref="char:EOLhyphen"/>ditions
+<pb n="45" facs="tcp:63732:25"/> of Men, and the general Thanksgiving ne<g ref="char:EOLhyphen"/>ver to be omitted. Each of a grave, and pious, and profitable composition, and worthy a more di<g ref="char:EOLhyphen"/>stinct consideration, which you may see more at large in Dr. <hi>Comber,</hi> upon the Book of <hi>Com<g ref="char:EOLhyphen"/>mon Prayer.</hi>
+            </p>
+            <p>And then we conclude
+<pb n="46" facs="tcp:63732:26"/> our daily Prayers with that excellent form of St. <hi>Chrysostome</hi>'s, <hi>Almighty God,</hi> &amp;c.</p>
+            <p>And we shut up all with that Apostolical form of impetrating a Blessing at our departure, from the Holy Trinity, and each Person therein, <hi>The Grace of our Lord Je<g ref="char:EOLhyphen"/>sus Christ, and the Love of
+<pb n="47" facs="tcp:63732:26"/> God, and the fellowship of the Holy Ghost be with us all evermore,</hi> Amen.</p>
+            <p>Here to be some short Ejaculations to our selves. As</p>
+            <p>
+               <hi>Blessed be thy great and glorious Name, O Lord our God, for this opportunity more of praising thee for thy mercies, and making my wants known unto thee,
+<pb n="48" facs="tcp:63732:27"/> through the merits of our Saviour Jesus Christ.</hi>
+            </p>
+            <p>Or any other short one.</p>
+            <p>Then rising up and making thine humble a<g ref="char:EOLhyphen"/>adoration before the Throne of Glory, say,</p>
+            <p>
+               <hi>Hallelujah; Salvati<g ref="char:EOLhyphen"/>on be unto our God, and to the Lamb for ever,</hi> Amen.</p>
+            <pb n="49" facs="tcp:63732:27"/>
+            <p>Depart with a glad heart, and a chearful Countenance.</p>
+            <div type="part">
+               <pb n="50" facs="tcp:63732:28"/>
+               <head>SOME SHORT RULES For our more Devout Behaviour In the TIME of the Communion SERVICE.</head>
+               <p>UPON <hi>Sundays</hi> and Holidays, we proceed to the Com<g ref="char:EOLhyphen"/>munion Service. The
+<pb n="51" facs="tcp:63732:28"/> Priest standing on the North side of the Table (the People all kneeling) shall say the Lords Pray<g ref="char:EOLhyphen"/>er with the Collect fol<g ref="char:EOLhyphen"/>lowing.</p>
+               <p>Then shall the Priest, turning to the people re<g ref="char:EOLhyphen"/>hearse distinctly all the Ten Commandments, and all the people, still kneel<g ref="char:EOLhyphen"/>ing, shall after every
+<pb n="52" facs="tcp:63732:29"/> Commandment, ask God mercy for their trans<g ref="char:EOLhyphen"/>gression thereof for the time past, and grace to keep the same for the time to come. As fol<g ref="char:EOLhyphen"/>loweth. <hi>Lord, have mer<g ref="char:EOLhyphen"/>cy upon us, and incline our hearts to keep this Law.</hi>
+               </p>
+               <p>Then shall follow one of the two Collects for the King, and the Collect for
+<pb n="53" facs="tcp:63732:29"/> the day: And immediate<g ref="char:EOLhyphen"/>ly after the Collect the Priest shall read the Epi<g ref="char:EOLhyphen"/>stle, and then the Gospel, the people all standing up, to signifie our desir<g ref="char:EOLhyphen"/>ing it.</p>
+               <p>And the Gospel ended shall be sung or said the Creed following, the people all standing as be<g ref="char:EOLhyphen"/>fore.</p>
+               <pb n="54" facs="tcp:63732:30"/>
+               <p>Then shall follow the Sermon, or one of the Homilies.</p>
+               <p>Sermon being ended, and if there be the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Sup<g ref="char:EOLhyphen"/>per, then fall upon your knees, and with all reve<g ref="char:EOLhyphen"/>rence, say this Ejacula<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>O Lord strengthen me a<g ref="char:EOLunhyphen"/>gainst the temptations of
+<pb n="55" facs="tcp:63732:30"/> Satan, who strives to draw away my heart from thee; and accept the Prayers which we have made and shall now make unto thee, through Jesus Christ our Lord,</hi> Amen. Or some o<g ref="char:EOLhyphen"/>ther Prayer out of your own Book if you have time.</p>
+               <p>Which done joyn with the Congregation in the
+<pb n="56" facs="tcp:63732:31"/> Communion Service (all kneeling in a settled and fervent devotion: for when we pray, our minds ought not to be fixed on any thing else, for God will have the whole heart or none). The Priest returns to the Lords Ta<g ref="char:EOLhyphen"/>ble and begins with some select sentences of Scrip<g ref="char:EOLhyphen"/>ture wherein God either
+<pb n="57" facs="tcp:63732:31"/> commands us to be cha<g ref="char:EOLhyphen"/>ritable, or else promiseth a blessing to those that are so. And then we pray for the whole state of Christs Church Mili<g ref="char:EOLhyphen"/>tant here on Earth, whereby we profess our selves to be real Members of it, and desirous to hold Communion with it, in Christs mystical Bo<g ref="char:EOLhyphen"/>dy and Blood.</p>
+               <pb n="58" facs="tcp:63732:32"/>
+               <p>Then shall the Priest say this Exhortation, <hi>Dearly beloved in the Lord,</hi> &amp;c.</p>
+               <p>Then shall the Priest say to them that come to receive the holy Com<g ref="char:EOLhyphen"/>munion. <hi>You that do truly and earnestly repent you of your sins,</hi> &amp;c.</p>
+               <p>Then shall this gene<g ref="char:EOLhyphen"/>ral Confession be made,
+<pb n="59" facs="tcp:63732:32"/> all kneeling humbly up<g ref="char:EOLhyphen"/>on their knees, after the Priest, saying, <hi>Almighty God, Father of our Lord Jesus Christ,</hi> &amp;c.</p>
+               <p>Now after this humble Confession of our Sins, the Priest stands up pro<g ref="char:EOLhyphen"/>nounces unto his people being penitent the Ab<g ref="char:EOLhyphen"/>solution and Remission of their Sins, <hi>Almighty God
+<pb n="60" facs="tcp:63732:33"/> our Heavenly Father,</hi> &amp;c.</p>
+               <p>(And now looking up<g ref="char:EOLhyphen"/>on our selves as absolved from our Sins upon our Repentance and Faith in Christ. We may boldly and chearfully present ourselves unto the Lords Table;)</p>
+               <p>Then shall the Priest say, <hi>Hear what comforta- words our Saviour Christ
+<pb n="61" facs="tcp:63732:33"/> saith unto all that truly turn to him,</hi> &amp;c.</p>
+               <p>After which the Priest shall proceed, saying, <hi>Lift up your hearts.</hi>
+               </p>
+               <p>Then shall the Priest turn to the Lords Table and say, <hi>It is very meet, right,</hi> &amp;c.</p>
+               <p>Then shall the Priest kneeling down at the Lords Table, say (in the
+<pb n="62" facs="tcp:63732:34"/> name of all them that shall receive the Commu<g ref="char:EOLhyphen"/>nion) this Prayer follow<g ref="char:EOLhyphen"/>ing, <hi>We do not presume to come to this thy Table,</hi> &amp;c.</p>
+               <p>When the Priest, stand<g ref="char:EOLhyphen"/>ing before the Table, hath so ordered the Bread and Wine, that he may with the more readiness and decency break the Bread before the People, and
+<pb n="63" facs="tcp:63732:34"/> take the Cup into his hands, he shall say the Prayer of Consecration, as followeth, <hi>Almighty God, our Heavenly Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c.</p>
+               <p>Now be attentive to the actions of the Mini<g ref="char:EOLhyphen"/>ster; and when you see him breaking the Bread, and pouring out the Wine, meditate, how
+<pb n="64" facs="tcp:63732:35"/> Christs Body was broken and his blood shed upon the Cross for us,</p>
+               <p>When thou art come to the holy Table;</p>
+               <p>First, humble thy self in an unfeigned acknow<g ref="char:EOLhyphen"/>ledgement of thy great unworthiness to be ad<g ref="char:EOLhyphen"/>mitted there, and to that purpose remember again, between God and thine
+<pb n="65" facs="tcp:63732:35"/> own soul, some of thy greatest and foulest Sins, then meditate on those bitter Sufferings of Christ, which are set out to us in the Sacrament, Consi<g ref="char:EOLhyphen"/>der this, and let it work in thee, First a great ha<g ref="char:EOLhyphen"/>tred and a firm resoluti<g ref="char:EOLhyphen"/>on against them, for the time to come.</p>
+               <p>Then lift up your
+<pb n="66" facs="tcp:63732:36"/> heart with this or the like ejaculation. <hi>Lord I am not worthy by reason of my sins to approach before thee: but seeing it hath pleased thee in mercy to call me to thy Ta<g ref="char:EOLhyphen"/>ble, behold in humility and obedience I come.</hi>
+               </p>
+               <p>Then shall the Minister first receive the Com<g ref="char:EOLhyphen"/>munion in both kinds himself; and after, the
+<pb n="67" facs="tcp:63732:36"/> people, all meekly kneel<g ref="char:EOLhyphen"/>ing. Before we receive, when the Minister is coming to distribute, and to offer the Elements un<g ref="char:EOLhyphen"/>to us, (considering that Christ with all his bene<g ref="char:EOLhyphen"/>fits are offered unto us by God, as well as the Elements by the Mini<g ref="char:EOLhyphen"/>ster) then meditate thus with your self.</p>
+               <pb n="68" facs="tcp:63732:37"/>
+               <p>
+                  <hi>Christ with the benefits of his death doth now come to sanctifie and comfort my sinful Soul, in full assurance whereof I am to receive these Signs and Seals at the hands of his Minister.</hi>
+               </p>
+               <p>And as you stretch out your hands to receive the Body or Blood of our Lord Jesus Christ, lift up your Soul in Faith with
+<pb n="69" facs="tcp:63732:37"/> this or the like Ejaculati<g ref="char:EOLhyphen"/>on,</p>
+               <p>
+                  <hi>Come Lord Jesus unto thy humble Servant, as my trust is thou wilt.</hi>
+               </p>
+               <p>Our Church hath here provided this concluding Banquet of Prayers and Praises, imitating our Sa<g ref="char:EOLhyphen"/>viours Pattern, so that we may all with one heart and voice now say
+<pb n="70" facs="tcp:63732:38"/> most chearfully; <hi>Our Father,</hi> &amp;c. the People repeating after the Priest every Petition, all kneel<g ref="char:EOLhyphen"/>ing.</p>
+               <p>After shall be said.</p>
+               <p>
+                  <hi>O Lord and Heavenly Father,</hi> &amp;c. or <hi>Almigh<g ref="char:EOLhyphen"/>ty,</hi> &amp;c.</p>
+               <p>Then shall be said or sung.</p>
+               <p>
+                  <hi>Glory be to God on high,</hi> &amp;c.</p>
+               <pb n="71" facs="tcp:63732:38"/>
+               <p>Then the Blessing.</p>
+               <p>And now Praising God for his goodness, depart lovingly together with chearful hearts, that God hath so graci<g ref="char:EOLhyphen"/>ously entertained, us his unworthy Servants.</p>
+               <p>And these few things now mentioned, may through Gods Grace, help you to such a pious
+<pb n="72" facs="tcp:63732:39"/> government of your self at the time of receiving the holy Sacrament, as may make it turn to your great and endless comfort.</p>
+               <p>And now I pray and beseech you, for the Love you have to Christ, and for your own Souls sake, and the Churches sake, to come with more reve<g ref="char:EOLhyphen"/>rence,
+<pb facs="tcp:63732:39"/> for I have seen in the Church, People sit<g ref="char:EOLhyphen"/>ting, and some, that count themselves Loyal Subjects, standing at the time of the Prayers of the Church, which is a most lamentable thing to do (if there be place for kneeling) if we consider we are in that holy Place, where Gods Majesty is
+<pb n="74" facs="tcp:63732:40"/> represented, and our Lord Jesus Christ, who shall judge us all at the last day; who is a God of purity, in whose pre<g ref="char:EOLhyphen"/>sence the brightest Angel is impure.</p>
+               <p>Therefore let all those that have done amiss beg pardon for it, and be more devout for the time to come;</p>
+               <pb n="75" facs="tcp:63732:40"/>
+               <p>It is the Duty of all you that are Parents to take care that your Chil<g ref="char:EOLhyphen"/>dren, as well as your selves, as often as they can, repair unto the publick Service of the Church, on the Week days; for in this City of <hi>London,</hi> we have so great opportunity, and our Churches so near us, and
+<pb n="76" facs="tcp:63732:41"/> Prayers Morning and E<g ref="char:EOLhyphen"/>vening in these places fol<g ref="char:EOLhyphen"/>lowing every day in the Week.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:63732:41"/>
+               <head>THE Daily Hours OF PRAYERS BOTH Morning and Evening In and about the CITY of <hi>LONDON</hi> Every day in the Week, throughout the Year, in these Places, <hi>viz.</hi>
+               </head>
+               <pb facs="tcp:63732:42"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Mo.</hi>
+                        </cell>
+                        <cell role="label">
+                           <hi>E.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At Whitehal Chappel</cell>
+                        <cell>
+                           <hi>6. 10</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At St. James Chappel</cell>
+                        <cell>
+                           <hi>6. 10</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At St. Peters Westmin.</cell>
+                        <cell>
+                           <hi>6. 10</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At the B. of Londons house.</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At the B. of Ely's House</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At the Temple</cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>In Term Time</cell>
+                        <cell>
+                           <hi>7</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At Grays Inn</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>5</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At Lincols Inn</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>5</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>At the Charter House</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Austins at the Old Change.</cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Andrew Ʋndershaft in Leaden-hall street.</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Antholins Watling<g ref="char:EOLhyphen"/>street</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:63732:42"/>
+                     <row>
+                        <cell>St Botolph without Al<g ref="char:EOLhyphen"/>dersgate</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Bennet Pauls Wharf</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Christopher near the Exchange</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Clement Danes without Temple Bar</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Dionis Back-Church in Limestreet</cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                        <cell>
+                           <hi>5</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Dunstan in the West in Fleetstreet</cell>
+                        <cell>
+                           <hi>7</hi>
+                        </cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:63732:43"/>
+                     <row>
+                        <cell>St. Dunstan at Stepny</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Edmond the King in Lumbardstreet</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>7</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Giles in the Fields</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Gregory by St. Pauls</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Helen near Bishopsgate</cell>
+                        <cell>
+                           <hi>9</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:63732:43"/>
+                     <row>
+                        <cell>St. James Clerkenwel</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. James Wostminster</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Katherine near the Tower</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Lawrence Jewry near Guild-hall.</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Lawrence Pountney near Cannon-street</cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                        <cell>
+                           <hi>2</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Mary Le Bow in Cheapsi.</cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                        <cell>
+                           <hi>8</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Martin Ludgate</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <pb facs="tcp:63732:44"/>
+                     <row>
+                        <cell>St. Mary Woolnoth in Lumbardstreet</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>0</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Martins in the Fields</cell>
+                        <cell>
+                           <hi>6</hi>
+                        </cell>
+                        <cell>
+                           <hi>5</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Peter in Cornhil</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Peter Poor in Broadst.</cell>
+                        <cell>
+                           <hi>10</hi>
+                        </cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Paul Cov. Gard.</cell>
+                        <cell>
+                           <hi>6, 11</hi>
+                        </cell>
+                        <cell>
+                           <hi>3, 5</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>St. Swithin at Londonstone</cell>
+                        <cell>
+                           <hi>11</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Holy Sepulchres Parish without Newgate</cell>
+                        <cell>6</cell>
+                        <cell>
+                           <hi>3</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Somerset House in the Strand for them of the Church of Engl.</cell>
+                        <cell>
+                           <hi>7. 10</hi>
+                        </cell>
+                        <cell>
+                           <hi>4</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="83" facs="tcp:63732:44"/>
+               <p>
+                  <hi>Therefore what great Blessings do we lose, by neglecting to come to the publick Prayers of the Church. We have time for every thing else, and shall we not find time for this great concern of our Souls? For with what confidence can we expect a Bles<g ref="char:EOLhyphen"/>sing from our Heavenly
+<pb n="84" facs="tcp:63732:45"/> Father without asking it, and what an ungrateful thing it is to receive Blessings at God's hand daily, and not as daily to acknowledge and give him thanks for it in pub<g ref="char:EOLhyphen"/>lick every day as well as in private? For by the pub<g ref="char:EOLhyphen"/>lick we let the World see we are not ashamed of our Religion; for St.</hi> Paul
+<pb n="58" facs="tcp:63732:45"/>
+                  <hi>saith,</hi> be careful for nothing, but in every thing by pray<g ref="char:EOLhyphen"/>er and supplication with thanksgiving, let your re<g ref="char:EOLhyphen"/>quest be made known unto God, <hi>Phil. 4.6.</hi>
+               </p>
+               <p>
+                  <hi>And that we may do it then with chearfulness and readiness of heart (which makes all our service the better accept<g ref="char:EOLhyphen"/>ed) I will put you in
+<pb n="86" facs="tcp:63732:46"/> mind of the kingly Pro<g ref="char:EOLhyphen"/>phets delights in this kind of service, who was able to say,</hi> Every day will I give thanks unto thee, and praise thy Name for ever and ever. <hi>Ps. 145.1. and in Psal. 55.18. he says,</hi> In the Evening, and Morning, and at Noon day will I pray, and that instantly, and he shall hear my voice.</p>
+            </div>
+            <div type="prayer">
+               <pb n="87" facs="tcp:63732:46"/>
+               <head>A Prayer to be u<g ref="char:EOLhyphen"/>sed before read<g ref="char:EOLhyphen"/>ing the Holy Bible.</head>
+               <p>O Lord whose word is a two edged Sword, to cut down all things that shall rise up against the same, bless me, I beseech thee in the reading of this
+<pb n="88" facs="tcp:63732:47"/> thy holy and heavenly Word, prepare me with reverence to read it, en<g ref="char:EOLhyphen"/>lighten my understanding to understand it, work in me, true obedience to sub<g ref="char:EOLhyphen"/>mit my self unto it, that I may lay it up in the Closet of my heart, and bring it forth in my Life and Conversation.
+<pb n="89" facs="tcp:63732:47"/> Through Jesus Christ our Lord and only Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63732:48"/>
+            <head>
+               <hi>Some BOOKS</hi> Printed for, and Sold by <hi>Sam. Keeble,</hi> at the <hi>Turks-head</hi> in <hi>Fleet-Street.</hi>
+            </head>
+            <p>A Weeks Preparati<g ref="char:EOLhyphen"/>on towards a Worthy Receiving of the LORD'S Supper
+<pb facs="tcp:63732:48"/> after the Warning of the Church for the Celebra<g ref="char:EOLhyphen"/>tion of the Holy Com<g ref="char:EOLhyphen"/>munion, <hi>&amp;c.</hi>
+            </p>
+            <p>Preparation to a Ho<g ref="char:EOLhyphen"/>ly Life; by the Author of the Weeks Preparation.</p>
+            <p>The Book of <hi>Bertram</hi> the Priest, concerning the Body and Blood of Christ in the Sacrament; written in <hi>Latin</hi> by the Command of the Em<g ref="char:EOLhyphen"/>perour <hi>Charles</hi> the Great, above Nine
+<pb facs="tcp:63732:49"/> Hundred years ago, and First Translated in<g ref="char:EOLhyphen"/>to <hi>English,</hi> in 1549.</p>
+            <p>The New Youths Be<g ref="char:EOLhyphen"/>haviour, containing First his Duty to God; Secondly, Decency in his Conversation to<g ref="char:EOLhyphen"/>wards Men.</p>
+            <p>The Worth of a Penny, or a Caution to keep Money.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63732:49"/>
+         </div>
+      </back>
+   </text>
+</TEI>
